@@ -10,6 +10,7 @@ def register(users):
             print("Registration successful!")
             break
 
+
 def login(users):
     while True:
         username = input("Enter your username: ")
@@ -20,4 +21,3 @@ def login(users):
                 print("Login successful!")
                 return user
 
-        print("Invalid username or password. Please try again.")
